@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Motion Capture Biomechanics Software",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a computer vision software to analyze a real-time video input for landmark detection, hand tracking, and identification of body angles",
+    "skills": ["OpenCV", "Python", "Mediapipe", "NumPy"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/sjoolee/Motion-Capture-Computer-Vision"
+  },
+  {
+    "title": "3D Spatial Recognition Software",
+    "imageSrc": "projects/LiDAR.png",
+    "description": "An embedded system architecture project made to collect and reconstruct spatial dimensions to develop a 3D digital model rendering of any room or hallway",
+    "skills": ["Open3D", "MATLAB", "Microcontroller", "ToF sensor"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/sjoolee/LiDAR_software"
+  },
+  {
+    "title": "Text to Braille Converter",
+    "imageSrc": "projects/braille.jpg",
+    "description": "This was a school-based project made for the visually impaired so that any external image can be taken by the device and instantaneously turn the image into braille lettering",
+    "skills": ["AutoCAD", "API", "Servo Motors", "Microcontroller"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/sjoolee/Text-to-Braille"
+  }
+]

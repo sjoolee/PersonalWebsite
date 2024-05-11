@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "MATLAB",
+    "imageSrc": "skills/matlab.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "C/C++",
+    "imageSrc": "skills/C.png"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/pytorch.png"
+  },
+  {
+    "title": "Pillow",
+    "imageSrc": "skills/pillow.png"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/opencv.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/matplotlib.png"
+  },
+  {
+    "title": "Mediapipe",
+    "imageSrc": "skills/mediapipe.png"
+  },
+  {
+    "title": "Scikit-learn",
+    "imageSrc": "skills/skitlearn.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "NumPy",
+    "imageSrc": "skills/numpy.png"
+  },
+  {
+    "title": "Tensorflow",
+    "imageSrc": "skills/Tensorflow.png"
+  },
+  {
+    "title": "GNU C",
+    "imageSrc": "skills/GNU.png"
+  },
+  {
+    "title": "AutoCAD",
+    "imageSrc": "skills/Autodesk Inventor.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node JS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

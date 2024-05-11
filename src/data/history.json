@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Machine Learning Researcher",
+    "organisation": "McMaster University",
+    "startDate": "May 2023",
+    "endDate": "Present",
+    "experiences": ["Developed a multi-sensor Human Activity Recognition dataset as the Student Primary Investigator to measure EEG waves, cardiovascular health, respiratory health, and accelerometer, gyroscope and magnetometer data from student participants", "Conducted image processing using NumPy, PyTorch and Pillow for a mammogram-based ML algorithm, where MRI images were inputted into a CNN model to classify if the tissues had a tumor that was benign, malignant, healthy, or was tumor-free"],
+    "imageSrc": "history/mcmaster.png"
+  },
+  {
+    "role": "Hockey Performance Intern",
+    "organisation": "York University",
+    "startDate": "Sept. 2019",
+    "endDate": "Jan. 2020",
+    "experiences": ["Coordinated with performance coaches and hockey players to facilitate an environment of collaboration and improvement using effective and strong communication skills", "Assumed responsibility for organizing intensive practice sessions aimed at elevating team performance and minimizing the risk of sports-related injuries"],
+    "imageSrc": "history/york.png"
+  }
+]
