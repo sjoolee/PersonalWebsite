@@ -1,6 +1,34 @@
 [
   {
-    "title": "Motion Capture Biomechanics Software",
+    "title": "Cricket Score Prediction System",
+    "imageSrc": "projects/crickets.png",
+    "description": "Optimized XGBoost for regression tasks on noisy, high-dimensional datasets and developed advanced features like current score, wickets, run rate, and last 5 overs' runs to drive a real-time cricket score prediction model",
+    "skills": ["sklearn", "Python", "json", "xgboost", "glob"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/sjoolee/Cricket-Prediction-Score"
+  },
+  {
+    "title": "Football Tracking and Assignment System",
+    "imageSrc": "projects/football.png",
+    "description": "Used YOLO for real-time detection of players, referees, and the ball, applying proximity-based assignment for ball possession, visualized objects with dynamic color coding and shapes, and used linear interpolation to maintain consistent tracking",
+    "skills": ["Supervision", "Pickle", "Pandas", "NumPy", "os"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/sjoolee/Football-Game-Tracking"
+  },
+  {
+    "title": "EMG Acquisition Circuit",
+    "imageSrc": "projects/EMG.jpg",
+    "description": "Collaboratively designed and implemented an electromyography system for the McMaster Engineering Design Team, utilizing advanced circuit design and filtering techniques to accurately capture and amplify muscle activity",
+    "skills": ["op-amps", "inductor", "active filters", "resistors"]
+  },
+  {
+    "title": "Functional Digital Keyboard",
+    "imageSrc": "projects/2DX.png",
+    "description": "Developed a functional lock system on a microcontroller that switched an indicator light from D1 to D2 upon entering the correct key combination, while maintaining D1 active and D2 inactive for incorrect inputs",
+    "skills": ["MSP432E401Y microcontroller", "keil MDK"]
+  },
+  {
+    "title": "Live Motion Capture Biomechanics Software",
     "imageSrc": "projects/project.png",
     "description": "Developed a computer vision software to analyze a real-time video input for landmark detection, hand tracking, and identification of body angles",
     "skills": ["OpenCV", "Python", "Mediapipe", "NumPy"],
@@ -8,10 +36,10 @@
     "source": "https://github.com/sjoolee/Motion-Capture-Computer-Vision"
   },
   {
-    "title": "3D Spatial Recognition Software",
+    "title": "3D Spatial Viewing",
     "imageSrc": "projects/LiDAR.png",
     "description": "An embedded system architecture project made to collect and reconstruct spatial dimensions to develop a 3D digital model rendering of any room or hallway",
-    "skills": ["Open3D", "MATLAB", "Microcontroller", "ToF sensor"],
+    "skills": ["Open3D", "MATLAB", "MSP432E401Y microcontroller", "ToF sensor"],
     "demo": "https://www.example.com",
     "source": "https://github.com/sjoolee/LiDAR_software"
   },

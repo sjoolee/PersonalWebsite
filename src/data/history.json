@@ -1,9 +1,24 @@
-[
+[ {
+  "role": "Sports Statistician",
+  "organisation": "McMaster University",
+  "startDate": "June 2024",
+  "endDate": "September 2024",
+  "experiences": ["Maintained a high level of precision and consistency in tracking and recording in-game events, directly supporting the companys mission of delivering accurate, official live sports data", "Developed expertise in data tracking and game reporting while collaborating with global sports science networks"],
+  "imageSrc": "history/genius.png"
+  },
+  {
+    "role": "Computer Vision Developer",
+    "organisation": "Korea University",
+    "startDate": "May 2024",
+    "endDate": "August 2024",
+    "experiences": ["Designed and implemented advanced models and applications, including a U-Net-based baseball image segmentation model and a YOLO-driven tennis analysis tool, to enhance real-time motion tracking and pixel-scale sports video analysis"],
+    "imageSrc": "history/koreau.png"
+  },
   {
     "role": "Machine Learning Researcher",
     "organisation": "McMaster University",
     "startDate": "May 2023",
-    "endDate": "Present",
+    "endDate": "August 2024",
     "experiences": ["Developed a multi-sensor Human Activity Recognition dataset as the Student Primary Investigator to measure EEG waves, cardiovascular health, respiratory health, and accelerometer, gyroscope and magnetometer data from student participants", "Conducted image processing using NumPy, PyTorch and Pillow for a mammogram-based ML algorithm, where MRI images were inputted into a CNN model to classify if the tissues had a tumor that was benign, malignant, healthy, or was tumor-free"],
     "imageSrc": "history/mcmaster.png"
   },

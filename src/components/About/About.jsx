@@ -19,8 +19,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Machine Learning Developer</h3>
               <p>
-              My expertise includes designing ML solutions that utilize complex algorithms for processing large 
-              datasets, therby enabling predictive analytics and image recognition
+              My expertise lies in designing machine learning solutions that utilize complex algorithms to process large datasets 
+              efficiently. Additionally, I have developed and deployed computer vision algorithms that transform visual data into 
+              actionable insights, using advanced techniques and frameworks.
               </p>
             </div>
           </li>
@@ -29,18 +30,20 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Data Analyst</h3>
               <p>
-              I transform raw data into insights through statistical modeling, predictive analytics, and machine
-              learning techniques. My expertise spans across data collection, processing, and analysis.
+              I specialize in transforming raw data into insights by applying statistical modeling, predictive analytics, and machine
+              learning techniques. I can work anywhere within the data pipeline, from data collection and preprocessing to cleaning and
+              structuring the data, identify any trends, and/or build predictive models that drive informed decision-making. 
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/computer.png")} alt="computer icon" className={styles.aboutImages}/>
             <div className={styles.aboutItemText}>
-              <h3>Computer Vision Designer</h3>
+              <h3>Computer/ Circuit Designer</h3>
               <p>
-              I've developed and deployed computer vision algorithms to transform visual data into insights, 
-              using advanced techniques and frameworks like OpenCV, TensorFlow, and PyTorch. 
+              I have a strong foundation in microcontrollers and electrical work, including the use of resistors, operational amplifiers,
+              and other components in circuit design. My expertise extends to developing embedded systems and working with hardware to 
+              build efficient, functional solutions.
               </p>
             </div>
           </li>
